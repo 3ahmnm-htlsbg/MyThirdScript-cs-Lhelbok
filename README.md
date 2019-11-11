@@ -8,7 +8,7 @@ The aim of this project is twofold.
 
 ### Development platform: 
 
-Windows 10, Unity version 2019.1.14f1, Visual Studio 2017.
+Windows 10, Unity version 2019.1.14f1, Visual Studio 2019
 
 ### Target platform: 
 
@@ -16,14 +16,14 @@ WebGL (RefRes: 1280x720 HD-720p)
 
 ### Lessons Learned
 
-+Learned how to format and layout a REAMDE.md and how to add a screenshot to a REAMDE.md
-+Got faster at the git/Github Workflow
-+Gained extra knowledge from my mistakes
++ Learned how to format and layout a REAMDE.md and how to embedded a screenshot
++ Got faster at the git/Github Workflow
++ Gained extra knowledge from my mistakes
 
 ### Screenshots:
 
 <div>
-<img src = "./Screenshot/home-pic-playmode-mythirdscript-addnumbers-cs-Lhelbok.jpg" width = "500">
+<img src = "Screenshots/home-pic-playmode-mythirdscript-addnumbers-cs-Lhelbok.jpg" width = "500">
 </div> 
 
 
