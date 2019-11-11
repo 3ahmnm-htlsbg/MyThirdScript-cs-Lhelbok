@@ -8,7 +8,7 @@ The aim of this project is twofold.
 
 ### Development platform: 
 
-Windows 10, Unity version 2019.1.14f1, Visual Studio 2019
+Windows 10 home, Unity version 2019.1.14f1, Visual Studio 2019
 
 ### Target platform: 
 
@@ -27,4 +27,4 @@ WebGL (RefRes: 1280x720 HD-720p)
 </div> 
 
 
-**copyright by Lhelbok**
+*copyright by Lhelbok*
